@@ -61,4 +61,11 @@ $stack->push("Raihan"); // 9
 
 // Menampilkan Stack
 print_r($stack);
+
+// perubahannya tidak ada semua legitimate terimakasi mas pace !!!
+
+
+
+
 ?>
+
